@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "DLGPicker"
+  s.name         = "AlertPickers"
   s.version      = "1.0.4"
   s.summary      = "Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView adapted for using in DialogSDK"
   s.homepage     = "https://github.com/dialogs/Alerts-Pickers"
